@@ -1,0 +1,9 @@
+{
+  "name": "smwo-v2",
+  "version": "1.0.0",
+  "description": "Super Mario War Online V2",
+  "main": "index.js",
+  "repository": "https://github.com/wyatt-radkiewicz/smwo-v2.git",
+  "author": "eklipsed",
+  "license": "MIT"
+}
